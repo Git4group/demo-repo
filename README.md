@@ -1,5 +1,7 @@
 # demo-repo
 This is my first repository
 <br>
-Auther- Sumit
+Auther- Sumit (code)
+<br>
+making some more changes
 
